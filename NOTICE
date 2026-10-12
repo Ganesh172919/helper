@@ -1,0 +1,12 @@
+Maya the Helper
+Copyright 2026 the Maya the Helper contributors.
+Licensed under the Apache License, Version 2.0; see LICENSE.
+
+Native Python desktop assistance using explicit user-supplied context. No personal profile,
+preloaded memories, credentials, screenshots or history database are bundled. Some implementation
+changes were produced with AI assistance. No benchmarks or adoption claims are implied.
+
+Third-party components include Python, PyQt5/Qt, HTTPX, Pillow, MSS, keyring and python-dotenv.
+They and their transitive dependencies retain their respective licenses. Review installed package
+metadata and Qt distribution requirements before sharing a bundled executable. No downloaded
+artwork is included; the flower mark uses original code-native vector geometry.

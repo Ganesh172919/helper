@@ -1,0 +1,7 @@
+# Runtime versions checked against the package index on 10 October 2026.
+PyQt5==5.15.11
+httpx==0.28.1
+Pillow==12.3.0
+mss==10.2.0
+keyring==25.7.0
+python-dotenv==1.2.4
